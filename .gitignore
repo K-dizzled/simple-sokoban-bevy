@@ -2,4 +2,3 @@
 .vscode/
 forestry-rust.ipa
 target/
-run_on_sim.sh
